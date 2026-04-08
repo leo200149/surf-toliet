@@ -1,0 +1,1 @@
+System.register(["./pixi-legacy-DfLqT2F9.js","./webworkerAll-legacy-BS1IMUnJ.js"],function(e,i){"use strict";var t,r,n,s,d,a,c;return{setters:[e=>{t=e.e,r=e.b,n=e.C,s=e.d,d=e.D,a=e.E,c=e.F},null],execute:function(){t.add(r),t.mixin(n,s),t.add(d),t.add(a),t.mixin(n,c)}}});
